@@ -66,8 +66,12 @@ var x = setInterval(function () {
 
 var fileUrls = [
     {
-        download: "https://drive.google.com/uc?export=download&id=1DUPGAdtrh3dk8euxhN5DaZT3vFrAY4iE",
+        download: "https://drive.google.com/uc?export=download&id=1DhMyFFhXoeImIDu7qJib4sn-RMEGHoJX",
         filename: "Pradnya-Sanket-wedding-invitation.jpg",
+    },
+    {
+        download: "https://drive.google.com/uc?export=download&id=1DlakXUCjJnV8HXfBJDAk_joJxOUqTtNF",
+        filename: "Pradnya-Sanket-wedding-invitation.mp4",
     },
 ];
 
